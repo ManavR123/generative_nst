@@ -1,2 +1,2 @@
-# generative_nst
-A Generative Approach to Neural Style Transfer
+# A Generative Approach to Neural Style Transfer
+_Authors:_ Harish Palani, Manav Rathod
